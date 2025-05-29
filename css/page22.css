@@ -63,6 +63,7 @@
     .input-label {
         font-weight: bold;
         font-size: 13px;
+        padding-top: 22px;
     }
 
     .input-label::after {
@@ -378,6 +379,7 @@
 
         .custom-img {
             margin-left: -65px;
+           
         }
 
         .caption {
@@ -421,7 +423,7 @@
 
         /* header section */
         .fitch-title {
-            margin-left: 10px;
+            margin-left: 45px;
             margin-top: 5px;
         }
 
