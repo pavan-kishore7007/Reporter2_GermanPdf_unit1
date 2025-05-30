@@ -112,7 +112,7 @@ body {
 
 .header-grammar {
     background-color: #007c91;
-    width: 300px;
+    width: 240px;
     color: #fff;
     padding: 10px;
     font-weight: bold;
@@ -126,7 +126,7 @@ body {
 
 .header-vocab {
     background-color: #9d198d;
-    width: 300px;
+    width: 240px;
     color: #fff;
     padding: 10px;
     font-weight: bold;
@@ -136,7 +136,7 @@ body {
 .section-content {
     background-color: #f5f6fa;
     padding: 15px;
-    width: 300px;
+    width: 240px;
 }
 
 .section-content.vocab {
@@ -179,6 +179,7 @@ body {
 @media (max-width:768px) {
     .container{
         flex-direction: column;
+
     }
 
     
